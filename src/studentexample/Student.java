@@ -4,7 +4,7 @@ package studentexample;
  * This class represents a Student and is a 
  * POJO (Plain Old Java Object)
  *
- * @author Paul Bonenfant
+ * @author Paul Bonenfant May 2022
  */
 public class Student {
     
